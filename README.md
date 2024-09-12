@@ -1,3 +1,3 @@
 # UIA-H-2024
 macOS Catalina
-gg
+git version 2.24.3 (Apple Git-128)
